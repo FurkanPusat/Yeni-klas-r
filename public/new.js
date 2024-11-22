@@ -2,7 +2,9 @@ import React from 'react'
 
 const New = () => {
   return (
-    <div>New</div>
+    <div>login page burası kardeşim. Başka yere git.
+        
+    </div>
   )
 }
 
